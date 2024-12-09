@@ -1,0 +1,4 @@
+#TITLE+: CPP-Related Questions
+
+- [[https://github.com/huihut/interview?tab=readme-ov-file][huihut/interview]]
+- [[https://github.com/guaguaupup/cpp_interview][guaguaupup/cpp_interview]]
